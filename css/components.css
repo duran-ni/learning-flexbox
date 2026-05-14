@@ -25,3 +25,18 @@
     background-color: #333;
     text-decoration: none;
 }
+
+/* --- RESPONSIVE CARDS --- */
+@media (max-width: 768px) {
+    .info-card {
+        flex-direction: column; /* Apila imagen arriba y texto abajo */
+        text-align: center;
+        padding: 20px;
+    }
+
+    .card-media {
+        margin-right: 0;      /* Quita el margen lateral */
+        margin-bottom: 20px;   /* Añade margen inferior */
+        flex: 0 0 100px;
+    }
+}

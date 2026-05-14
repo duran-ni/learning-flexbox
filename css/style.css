@@ -58,3 +58,10 @@
     font-weight: bold;
     text-decoration: underline;
 }
+
+/* --- RESPONSIVE LAYOUT --- */
+@media (max-width: 768px) {
+    .main-title {
+        font-size: 2.5rem;
+    }
+}
