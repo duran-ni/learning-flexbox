@@ -1,0 +1,13 @@
+.main-header {
+    width: 100%;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.main-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 700;
+    color: #000000;
+    text-transform: uppercase;
+}
