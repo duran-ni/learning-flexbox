@@ -1,0 +1,27 @@
+/* Efecto de elevación en la tarjeta */
+.info-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+}
+
+.info-card:hover {
+    transform: translateY(-10px); /* Eleva la tarjeta */
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+}
+
+/* Efecto en el enlace/botón */
+.card-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+.card-link:hover {
+    background-color: #333;
+    text-decoration: none;
+}
