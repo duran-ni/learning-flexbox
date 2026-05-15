@@ -13,17 +13,18 @@
 .card-link {
     display: inline-block;
     margin-top: 10px;
-    padding: 8px 16px;
-    background-color: #000;
-    color: #fff;
-    text-decoration: none;
-    border-radius: 4px;
-    transition: background-color 0.2s;
+    color: #0000ee;            /* Azul clásico de enlace */
+    text-decoration: underline; /* Subrayado */
+    background-color: transparent; /* Sin fondo negro */
+    padding: 0;                /* Sin relleno */
+    border: none;              /* Sin bordes */
+    font-weight: normal; 
 }
 
 .card-link:hover {
-    background-color: #333;
-    text-decoration: none;
+    background-color: transparent; /* Aseguramos que no vuelva el negro */
+    color: #551a8b;               /* Un tono más oscuro al pasar el ratón */
+    text-decoration: underline;
 }
 
 /* --- RESPONSIVE CARDS --- */
