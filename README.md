@@ -49,7 +49,7 @@ Uso de varios tipos de fuentes.
 - Contraste de color adecuado entre el texto y el fondo de las tarjetas.
 
 # Capturas del Proyecto
-![HTML5 & CSS3](assets/imgs/.png)
+![HTML5 & CSS3](assets/imgs/html5/css3.png)
 
 
 # Tecnologías Utilizadas
@@ -67,3 +67,4 @@ git commit -m "feat: add header structure and layout styles"
 git commit -m "feat: add cards structure with flexbox and handwritten font"
 git commit -m "feat: add hover effects and button styles to cards"
 git commit -m "feat: fix and implement responsive media queries"
+git commit -m "feat: update text content, style links and add project images"
