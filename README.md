@@ -61,10 +61,10 @@ Uso de varios tipos de fuentes.
 
 # Planificación de Commits
 
-git commit -m "chore: initial project structure with modular css and assets folders"
-git commit -m "chore: setup head metadata and linked google fonts"
-git commit -m "feat: add header structure and layout styles"
-git commit -m "feat: add cards structure with flexbox and handwritten font"
-git commit -m "feat: add hover effects and button styles to cards"
-git commit -m "feat: fix and implement responsive media queries"
-git commit -m "feat: update text content, style links and add project images"
+- git commit -m "chore: initial project structure with modular css and assets folders"
+- git commit -m "chore: setup head metadata and linked google fonts"
+- git commit -m "feat: add header structure and layout styles"
+- git commit -m "feat: add cards structure with flexbox and handwritten font"
+- git commit -m "feat: add hover effects and button styles to cards"
+- git commit -m "feat: fix and implement responsive media queries"
+- git commit -m "feat: update text content, style links and add project images"
